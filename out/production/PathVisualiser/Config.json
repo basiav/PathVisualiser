@@ -1,0 +1,12 @@
+{
+  "boardRowsNumber": 50,
+  "boardColumnsNumber": 50,
+  "delay": 1,
+  "chosenAlgorithm": 0,
+  "generateObstaclesRandomly": 1,
+  "obstaclesNumber": 400,
+  "startRowsNumber": 15,
+  "startColumnsNumber": 15,
+  "endRowsNumber": 30,
+  "endColumnsNumber": 30
+}

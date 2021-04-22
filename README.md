@@ -1,2 +1,1 @@
-# PathVisualiser
-Welcome to PathVisualiser!
+# PathfinderVisualiser

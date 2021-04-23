@@ -20,6 +20,6 @@
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSBusyAction.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSBusyAction.png" width="550" height="400" />
 
-#### Open Config.json to and change "chosenAlgorithm" to either 0 (DFS), 1 (BFS) or 2 (AStar). Change other parameters, if you wish to
+#### Open Config.json to and change "chosenAlgorithm" to either 0 (DFS), 1 (BFS) or 2 (AStar). Change other parameters, if you wish to. Enjoy! :)
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" />

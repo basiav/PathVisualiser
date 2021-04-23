@@ -1,8 +1,8 @@
 # PathfinderVisualiser
 ## Real-time pathfinding visualisation between any given two points using:
-* A* search algorithm
-* Breadth-first search algorithm
-* Depth-first search algorithm
+#### * A* search algorithm
+#### * Breadth-first search algorithm
+#### * Depth-first search algorithm
 
 #### BFS: find and display the shortest path, display the search tree,
 

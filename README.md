@@ -22,8 +22,8 @@
 
 #### Open Config.json to change:
 * "chosenAlgorithm" to either 0 (DFS), 1 (BFS) or 2 (AStar),
-* Start and end points' coordinates,
-* Number of obstacles.
+* start and end points' coordinates,
+* number of obstacles.
 Change other parameters, if you wish to. Enjoy! :)
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" />

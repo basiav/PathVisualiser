@@ -17,6 +17,6 @@
 
 Open Config.json and change "chosenAlgorithm" to either 0 (DFS), 1 (BFS) or 2 (AStar)
 
-<img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" class="center" />
+<img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" style="border:5px solid black" />
 
 

@@ -12,7 +12,7 @@
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/AStarAction.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/AStarAction.png" width="550" height="400" />
 
-#### DFS: find the path, stop as soon as the end point is encountered, display the path and the search tree,
+#### DFS: find the path, stop searching as soon as the end point is encountered, display the path and the search tree,
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" width="550" height="400" />
 

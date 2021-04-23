@@ -5,4 +5,4 @@
 * Depth-first search algorithm
 
 
-<img src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" width="500" height="400" />
+<img src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/DFSAction.png" width="550" height="400" />

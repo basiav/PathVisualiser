@@ -4,4 +4,4 @@
 * Breadth-first search algorithm
 * Depth-first search algorithm
 
-![GitHub Logo](/AStarAction.png =250x250)
+![GitHub Logo](/AStarAction.png | width=100)

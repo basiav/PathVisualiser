@@ -25,6 +25,6 @@
 * start and end points' coordinates,
 * number of obstacles.
 
-Change other parameters, if you wish to. Enjoy! :)
+And more.
 
 <img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" />
